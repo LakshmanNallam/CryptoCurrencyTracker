@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.imgConnn {
+  width: 5%;
+  margin-right: 5px;
+}
+.imgg {
+  width: 100%;
+}
+.firstCon {
+  display: flex;
+  align-items: center;
+}

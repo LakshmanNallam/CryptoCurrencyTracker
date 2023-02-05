@@ -1,0 +1,44 @@
+/* Write your CSS code here */
+.CrypptoList {
+  width: 90%;
+  height: 90vh;
+  border-radius: 3px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #00e7ff;
+}
+.ImgCon {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.table {
+  width: 90%;
+  border-radius: 9px;
+  border-width: 4px;
+  border-style: solid;
+}
+.header {
+  background-color: #092e33;
+  margin-top: 0px;
+  min-height: 23px;
+  display: flex;
+}
+.firstCon {
+  width: 60%;
+  padding-left: 23px;
+}
+.secondsCon {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+}
+.noBg {
+  background-color: black;
+  color: white;
+  list-style-type: none;
+}
